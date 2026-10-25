@@ -1,0 +1,126 @@
+{
+  "coriander": {
+    "source": "https://commons.wikimedia.org/wiki/File:A_scene_of_Coriander_leaves.JPG",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/51/A_scene_of_Coriander_leaves.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Thamizhpparithi Maari",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized, JPEG re-encoded, metadata removed. Display may crop.",
+    "file": "static/garden/images/coriander.jpg"
+  },
+  "mint": {
+    "source": "https://commons.wikimedia.org/wiki/File:Minze.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/05/Minze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Simon Eugster -- Simon 13:07, 2 July 2006 (UTC)",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Resized, JPEG re-encoded, metadata removed. Display may crop.",
+    "file": "static/garden/images/mint.jpg"
+  },
+  "tomato": {
+    "source": "https://commons.wikimedia.org/wiki/File:Tomato_je.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Softeis",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Resized, JPEG re-encoded, metadata removed. Display may crop.",
+    "file": "static/garden/images/tomato.jpg"
+  },
+  "tulsi": {
+    "source": "https://commons.wikimedia.org/wiki/File:Tulsi_or_Tulasi_Holy_basil.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/01/Tulsi_or_Tulasi_Holy_basil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Shashidhara halady",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized, JPEG re-encoded, metadata removed. Display may crop.",
+    "file": "static/garden/images/tulsi.jpg"
+  },
+  "marigold": {
+    "source": "https://commons.wikimedia.org/wiki/File:Tagetes_x_erecta1.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Tagetes_x_erecta1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "See source page",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Resized, JPEG re-encoded, metadata removed. Display may crop.",
+    "file": "static/garden/images/marigold.jpg"
+  },
+  "spinach": {
+    "source": "https://commons.wikimedia.org/wiki/File:Spinacia_oleracea_Spinazie_bloeiend.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/37/Spinacia_oleracea_Spinazie_bloeiend.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Rasbak",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Resized, JPEG re-encoded, metadata removed. Display may crop.",
+    "file": "static/garden/images/spinach.jpg"
+  },
+  "fenugreek": {
+    "source": "https://commons.wikimedia.org/wiki/File:Aesthetic_bunch_of_fenugreek_greens.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/be/Aesthetic_bunch_of_fenugreek_greens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Thamizhpparithi Maari",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized, JPEG re-encoded, metadata removed. Display may crop.",
+    "file": "static/garden/images/fenugreek.jpg"
+  },
+  "okra": {
+    "source": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Okra_Aug_25_2012.JPG",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/95/Hong_Kong_Okra_Aug_25_2012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Earth100",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized, JPEG re-encoded, metadata removed. Display may crop.",
+    "file": "static/garden/images/okra.jpg"
+  },
+  "aloe": {
+    "source": "https://commons.wikimedia.org/wiki/File:Aloe_vera_flower_inset.png",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Aloe_vera_flower_inset.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Collage by en:User:MidgleyDJ , original images from Wikimedia commons ( Image:Aloe_vera_offsets.jpg and Image:Aloe_vera_C.jpg )",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized, JPEG re-encoded, metadata removed. Display may crop.",
+    "file": "static/garden/images/aloe.jpg"
+  },
+  "hibiscus": {
+    "source": "https://commons.wikimedia.org/wiki/File:Hibiscus_Brilliant.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/21/Hibiscus_Brilliant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Andy / Andrew Fogg from near Cambridge, UK",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "changes": "Resized, JPEG re-encoded, metadata removed. Display may crop.",
+    "file": "static/garden/images/hibiscus.jpg"
+  },
+  "pothos": {
+    "source": "https://commons.wikimedia.org/wiki/File:Money_Plant_(Epipremnum_aureum)_4.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/6/62/Money_Plant_%28Epipremnum_aureum%29_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Mokkie",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized, JPEG re-encoded, metadata removed. Display may crop.",
+    "file": "static/garden/images/pothos.jpg"
+  },
+  "garden": {
+    "source": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=1400&q=85",
+    "author": "Unsplash contributor (see original image source)",
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license",
+    "changes": "Resized and re-encoded",
+    "file": "static/garden/images/garden.jpg"
+  },
+  "seedlings": {
+    "source": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735",
+    "author": "Unsplash contributor (original linked image)",
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license",
+    "changes": "Resized, display-cropped",
+    "file": "static/garden/images/seedlings.jpg"
+  },
+  "chilli": {
+    "source": "https://commons.wikimedia.org/wiki/File:Dundicut_Pepper_in_Behbahan,_Iran_III.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Dundicut_Pepper_in_Behbahan%2C_Iran_III.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "Persium",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized, JPEG re-encoded, metadata removed. Display may crop.",
+    "file": "static/garden/images/chilli.jpg"
+  }
+}
